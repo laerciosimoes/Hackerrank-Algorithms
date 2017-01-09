@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B43C4E9E-3BC4-4A78-B098-DEB7875C096C}</ProjectGuid>
+    <ProjectGuid>{52D934FC-73D7-4F02-99BE-29A6D8B01A4C}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>FacebookConsole1</RootNamespace>
-    <AssemblyName>FacebookConsole1</AssemblyName>
+    <RootNamespace>Diagonal_Difference</RootNamespace>
+    <AssemblyName>Diagonal Difference</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

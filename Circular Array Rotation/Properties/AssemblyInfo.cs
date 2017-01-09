@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Facebook1")]
+[assembly: AssemblyTitle("Circular Array Rotation")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Facebook1")]
+[assembly: AssemblyProduct("Circular Array Rotation")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("1b4e2323-f3d1-4cc7-9c4e-00d670dbabe4")]
+[assembly: Guid("10a30c44-9b24-437d-af02-4662659647f9")]
 
 // Version information for an assembly consists of the following four values:
 //

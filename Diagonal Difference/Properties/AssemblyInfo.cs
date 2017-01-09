@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("FacebookConsole1")]
+[assembly: AssemblyTitle("Diagonal Difference")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("FacebookConsole1")]
+[assembly: AssemblyProduct("Diagonal Difference")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("b43c4e9e-3bc4-4a78-b098-deb7875c096c")]
+[assembly: Guid("52d934fc-73d7-4f02-99be-29a6d8b01a4c")]
 
 // Version information for an assembly consists of the following four values:
 //
